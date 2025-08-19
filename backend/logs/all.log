@@ -1,0 +1,130 @@
+{"level":"info","message":"MongoDB Connected: localhost","timestamp":"2025-08-18 23:14:01:141"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-08-18 23:14:01:141"}
+{"level":"info","message":"Redis client connected","timestamp":"2025-08-18 23:14:01:141"}
+{"level":"info","message":"Redis client ready","timestamp":"2025-08-18 23:14:01:141"}
+{"level":"info","message":"Connected to Redis","timestamp":"2025-08-18 23:14:01:141"}
+{"level":"error","message":"Failed to start server: Cannot read properties of undefined (reading 'version')","stack":"TypeError: Cannot read properties of undefined (reading 'version')\n    at startServer (C:\\Users\\Lenovo\\Downloads\\real-time-ad-analytics-dashboard\\backend\\src\\server.js:142:70)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-08-18 23:14:01:141"}
+{"level":"info","message":"MongoDB Connected: localhost","timestamp":"2025-08-18 23:15:27:1527"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-08-18 23:15:27:1527"}
+{"level":"info","message":"Redis client connected","timestamp":"2025-08-18 23:15:27:1527"}
+{"level":"info","message":"Redis client ready","timestamp":"2025-08-18 23:15:27:1527"}
+{"level":"info","message":"Connected to Redis","timestamp":"2025-08-18 23:15:27:1527"}
+{"level":"info","message":"Connected to Elasticsearch (version info not available)","timestamp":"2025-08-18 23:15:27:1527"}
+{"level":"info","message":"Server running on port 5000 in development mode","timestamp":"2025-08-18 23:15:27:1527"}
+{"level":"info","message":"API available at http://localhost:5000/api/v1","timestamp":"2025-08-18 23:15:27:1527"}
+{"level":"info","message":"Health check at http://localhost:5000/health","timestamp":"2025-08-18 23:15:27:1527"}
+{"level":"info","message":"MongoDB Connected: localhost","timestamp":"2025-08-18 23:15:41:1541"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-08-18 23:15:41:1541"}
+{"level":"info","message":"Redis client connected","timestamp":"2025-08-18 23:15:41:1541"}
+{"level":"info","message":"Redis client ready","timestamp":"2025-08-18 23:15:41:1541"}
+{"level":"info","message":"Connected to Redis","timestamp":"2025-08-18 23:15:41:1541"}
+{"level":"info","message":"MongoDB Connected: localhost","timestamp":"2025-08-18 23:16:29:1629"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-08-18 23:16:29:1629"}
+{"level":"info","message":"Redis client connected","timestamp":"2025-08-18 23:16:29:1629"}
+{"level":"info","message":"Redis client ready","timestamp":"2025-08-18 23:16:29:1629"}
+{"level":"info","message":"Connected to Redis","timestamp":"2025-08-18 23:16:29:1629"}
+{"level":"info","message":"MongoDB Connected: localhost","timestamp":"2025-08-18 23:17:00:170"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-08-18 23:17:00:170"}
+{"level":"info","message":"Redis client connected","timestamp":"2025-08-18 23:17:00:170"}
+{"level":"info","message":"Redis client ready","timestamp":"2025-08-18 23:17:00:170"}
+{"level":"info","message":"Connected to Redis","timestamp":"2025-08-18 23:17:00:170"}
+{"level":"info","message":"MongoDB Connected: localhost","timestamp":"2025-08-18 23:17:13:1713"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-08-18 23:17:13:1713"}
+{"level":"info","message":"Redis client connected","timestamp":"2025-08-18 23:17:13:1713"}
+{"level":"info","message":"Redis client ready","timestamp":"2025-08-18 23:17:13:1713"}
+{"level":"info","message":"Connected to Redis","timestamp":"2025-08-18 23:17:13:1713"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-08-18 23:17:58:1758"}
+{"level":"info","message":"MongoDB Connected: localhost","timestamp":"2025-08-18 23:18:11:1811"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-08-18 23:18:11:1811"}
+{"level":"info","message":"Redis client connected","timestamp":"2025-08-18 23:18:11:1811"}
+{"level":"info","message":"Redis client ready","timestamp":"2025-08-18 23:18:11:1811"}
+{"level":"info","message":"Connected to Redis","timestamp":"2025-08-18 23:18:11:1811"}
+{"level":"warn","message":"Elasticsearch connection failed, continuing without it:","timestamp":"2025-08-18 23:19:01:191"}
+{"level":"info","message":"Server will run without Elasticsearch functionality","timestamp":"2025-08-18 23:19:01:191"}
+{"level":"info","message":"Server running on port 5000 in development mode","timestamp":"2025-08-18 23:19:01:191"}
+{"level":"info","message":"API available at http://localhost:5000/api/v1","timestamp":"2025-08-18 23:19:01:191"}
+{"level":"info","message":"Health check at http://localhost:5000/health","timestamp":"2025-08-18 23:19:01:191"}
+{"level":"info","message":"::1 - - [18/Aug/2025:17:49:14 +0000] \"GET /api/v1 HTTP/1.1\" 404 44 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36\"","timestamp":"2025-08-18 23:19:14:1914"}
+{"level":"info","message":"::1 - - [18/Aug/2025:17:49:15 +0000] \"GET /favicon.ico HTTP/1.1\" 404 49 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36\"","timestamp":"2025-08-18 23:19:15:1915"}
+{"level":"info","message":"::1 - - [18/Aug/2025:17:49:23 +0000] \"GET /health HTTP/1.1\" 200 102 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36\"","timestamp":"2025-08-18 23:19:23:1923"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-08-18 23:20:12:2012"}
+{"level":"info","message":"MongoDB Connected: localhost","timestamp":"2025-08-18 23:27:46:2746"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-08-18 23:27:46:2746"}
+{"level":"info","message":"Redis client connected","timestamp":"2025-08-18 23:27:46:2746"}
+{"level":"info","message":"Redis client ready","timestamp":"2025-08-18 23:27:46:2746"}
+{"level":"info","message":"Connected to Redis","timestamp":"2025-08-18 23:27:46:2746"}
+{"level":"warn","message":"Elasticsearch connection failed, continuing without it:","timestamp":"2025-08-18 23:28:37:2837"}
+{"level":"info","message":"Server will run without Elasticsearch functionality","timestamp":"2025-08-18 23:28:37:2837"}
+{"level":"info","message":"Server running on port 5000 in development mode","timestamp":"2025-08-18 23:28:37:2837"}
+{"level":"info","message":"API available at http://localhost:5000/api/v1","timestamp":"2025-08-18 23:28:37:2837"}
+{"level":"info","message":"Health check at http://localhost:5000/health","timestamp":"2025-08-18 23:28:37:2837"}
+{"level":"warn","message":"MongoDB disconnected","timestamp":"2025-08-19 00:05:06:56"}
+{"level":"info","message":"MongoDB reconnected","timestamp":"2025-08-19 00:05:16:516"}
+{"level":"warn","message":"MongoDB disconnected","timestamp":"2025-08-19 00:07:34:734"}
+{"level":"info","message":"MongoDB reconnected","timestamp":"2025-08-19 00:07:44:744"}
+{"level":"warn","message":"MongoDB disconnected","timestamp":"2025-08-19 00:53:42:5342"}
+{"level":"info","message":"MongoDB reconnected","timestamp":"2025-08-19 00:53:53:5353"}
+{"level":"warn","message":"MongoDB disconnected","timestamp":"2025-08-19 04:11:30:1130"}
+{"level":"info","message":"MongoDB reconnected","timestamp":"2025-08-19 04:11:41:1141"}
+{"level":"warn","message":"MongoDB disconnected","timestamp":"2025-08-19 04:53:36:5336"}
+{"level":"info","message":"MongoDB reconnected","timestamp":"2025-08-19 04:53:46:5346"}
+{"level":"warn","message":"MongoDB disconnected","timestamp":"2025-08-19 08:08:57:857"}
+{"level":"info","message":"MongoDB reconnected","timestamp":"2025-08-19 08:09:15:915"}
+{"level":"warn","message":"MongoDB disconnected","timestamp":"2025-08-19 08:38:40:3840"}
+{"level":"info","message":"MongoDB reconnected","timestamp":"2025-08-19 08:45:44:4544"}
+{"level":"warn","message":"MongoDB disconnected","timestamp":"2025-08-19 10:00:19:019"}
+{"level":"info","message":"MongoDB reconnected","timestamp":"2025-08-19 10:00:42:042"}
+{"level":"warn","message":"MongoDB disconnected","timestamp":"2025-08-19 10:22:54:2254"}
+{"level":"info","message":"MongoDB reconnected","timestamp":"2025-08-19 10:23:06:236"}
+{"level":"warn","message":"MongoDB disconnected","timestamp":"2025-08-19 11:33:57:3357"}
+{"level":"info","message":"MongoDB reconnected","timestamp":"2025-08-19 11:34:07:347"}
+{"level":"warn","message":"MongoDB disconnected","timestamp":"2025-08-19 11:50:55:5055"}
+{"level":"info","message":"MongoDB reconnected","timestamp":"2025-08-19 11:51:18:5118"}
+{"level":"warn","message":"MongoDB disconnected","timestamp":"2025-08-19 11:54:17:5417"}
+{"level":"info","message":"MongoDB reconnected","timestamp":"2025-08-19 11:54:35:5435"}
+{"level":"warn","message":"MongoDB disconnected","timestamp":"2025-08-19 12:47:32:4732"}
+{"level":"info","message":"MongoDB reconnected","timestamp":"2025-08-19 12:47:53:4753"}
+{"level":"warn","message":"MongoDB disconnected","timestamp":"2025-08-19 12:48:46:4846"}
+{"level":"info","message":"MongoDB reconnected","timestamp":"2025-08-19 12:49:03:493"}
+{"level":"warn","message":"MongoDB disconnected","timestamp":"2025-08-19 13:05:21:521"}
+{"level":"info","message":"MongoDB reconnected","timestamp":"2025-08-19 13:05:31:531"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-08-19 13:08:18:818"}
+{"level":"info","message":"MongoDB Connected: localhost","timestamp":"2025-08-19 13:09:04:94"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-08-19 13:09:04:94"}
+{"level":"info","message":"Redis client connected","timestamp":"2025-08-19 13:09:04:94"}
+{"level":"info","message":"Redis client ready","timestamp":"2025-08-19 13:09:04:94"}
+{"level":"info","message":"Connected to Redis","timestamp":"2025-08-19 13:09:04:94"}
+{"level":"info","message":"Connected to Elasticsearch (version info not available)","timestamp":"2025-08-19 13:09:04:94"}
+{"level":"error","message":"Error initializing Elasticsearch: Connect Timeout Error (attempted address: 172.19.0.4:9200, timeout: 10000ms)","meta":{"headers":{},"meta":{"aborted":false,"attempts":3,"connection":{"_openRequests":0,"deadCount":0,"headers":{"authorization":"[redacted]"},"id":"VWHB1zBgR_exX9-cO5Tqyw","maxEventListeners":100,"pool":{"_events":{},"_eventsCount":1},"resurrectTimeout":0,"timeout":30000,"tls":null,"url":"http://172.19.0.4:9200/","weight":1000},"context":null,"name":"elasticsearch-js","request":{"id":4,"options":{},"params":{"body":"{\"settings\":{\"number_of_shards\":1,\"number_of_replicas\":1,\"analysis\":{\"analyzer\":{\"text_analyzer\":{\"type\":\"custom\",\"tokenizer\":\"standard\",\"filter\":[\"lowercase\",\"stop\",\"snowball\"]}}}},\"mappings\":{\"properties\":{\"eventId\":{\"type\":\"keyword\"},\"eventType\":{\"type\":\"keyword\"},\"campaignId\":{\"type\":\"keyword\"},\"userId\":{\"type\":\"keyword\"},\"timestamp\":{\"type\":\"date\"},\"value\":{\"type\":\"float\"},\"currency\":{\"type\":\"keyword\"},\"platform\":{\"type\":\"keyword\"},\"device\":{\"type\":\"keyword\"},\"browser\":{\"type\":\"keyword\"},\"os\":{\"type\":\"keyword\"},\"country\":{\"type\":\"keyword\"},\"city\":{\"type\":\"keyword\"},\"ip\":{\"type\":\"ip\"},\"userAgent\":{\"type\":\"text\",\"analyzer\":\"text_analyzer\"},\"referrer\":{\"type\":\"text\"},\"landingPage\":{\"type\":\"text\"},\"conversionValue\":{\"type\":\"float\"},\"metadata\":{\"type\":\"object\",\"dynamic\":true}}}}","headers":{"accept":"application/vnd.elasticsearch+json; compatible-with=8","authorization":"[redacted]","content-length":"789","content-type":"application/vnd.elasticsearch+json; compatible-with=8","user-agent":"elasticsearch-js/8.19.0 (win32 10.0.22631-x64; Node.js 22.16.0; Transport 8.10.0)","x-elastic-client-meta":"es=8.19.0,js=22.16.0,t=8.10.0,un=22.16.0"},"method":"PUT","path":"/ad-analytics-events","querystring":""}}},"statusCode":0,"warnings":null},"name":"ConnectionError","options":{"redaction":{"additionalKeys":[],"type":"replace"}},"stack":"ConnectionError: Connect Timeout Error (attempted address: 172.19.0.4:9200, timeout: 10000ms)\n    at SniffingTransport._request (C:\\Users\\Lenovo\\Downloads\\real-time-ad-analytics-dashboard\\backend\\node_modules\\@elastic\\transport\\lib\\Transport.js:610:31)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async C:\\Users\\Lenovo\\Downloads\\real-time-ad-analytics-dashboard\\backend\\node_modules\\@elastic\\transport\\lib\\Transport.js:670:32\n    at async SniffingTransport.request (C:\\Users\\Lenovo\\Downloads\\real-time-ad-analytics-dashboard\\backend\\node_modules\\@elastic\\transport\\lib\\Transport.js:666:20)\n    at async Indices.create (C:\\Users\\Lenovo\\Downloads\\real-time-ad-analytics-dashboard\\backend\\node_modules\\@elastic\\elasticsearch\\lib\\api\\api\\indices.js:252:16)\n    at async initializeElasticsearch (C:\\Users\\Lenovo\\Downloads\\real-time-ad-analytics-dashboard\\backend\\src\\config\\elasticsearch.js:28:7)\n    at async startServer (C:\\Users\\Lenovo\\Downloads\\real-time-ad-analytics-dashboard\\backend\\src\\server.js:151:9)","timestamp":"2025-08-19 13:09:58:958"}
+{"level":"warn","message":"Elasticsearch connection failed, continuing without it:","timestamp":"2025-08-19 13:09:58:958"}
+{"level":"info","message":"Server will run without Elasticsearch functionality","timestamp":"2025-08-19 13:09:58:958"}
+{"level":"info","message":"Server running on port 5000 in development mode","timestamp":"2025-08-19 13:09:58:958"}
+{"level":"info","message":"API available at http://localhost:5000/api/v1","timestamp":"2025-08-19 13:09:58:958"}
+{"level":"info","message":"Health check at http://localhost:5000/health","timestamp":"2025-08-19 13:09:58:958"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-08-19 13:15:56:1556"}
+{"level":"info","message":"MongoDB Connected: localhost","timestamp":"2025-08-19 13:29:59:2959"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2025-08-19 13:29:59:2959"}
+{"level":"info","message":"Redis client connected","timestamp":"2025-08-19 13:29:59:2959"}
+{"level":"info","message":"Redis client ready","timestamp":"2025-08-19 13:29:59:2959"}
+{"level":"info","message":"Connected to Redis","timestamp":"2025-08-19 13:29:59:2959"}
+{"level":"warn","message":"Elasticsearch connection failed, continuing without it:","timestamp":"2025-08-19 13:30:48:3048"}
+{"level":"info","message":"Server will run without Elasticsearch functionality","timestamp":"2025-08-19 13:30:48:3048"}
+{"level":"info","message":"Server running on port 5000 in development mode","timestamp":"2025-08-19 13:30:48:3048"}
+{"level":"info","message":"API available at http://localhost:5000/api/v1","timestamp":"2025-08-19 13:30:48:3048"}
+{"level":"info","message":"Health check at http://localhost:5000/health","timestamp":"2025-08-19 13:30:48:3048"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","timestamp":"2025-08-19 13:36:48:3648"}
+{"level":"warn","message":"No email configuration found. Emails will be logged instead of sent.","timestamp":"2025-08-19 13:41:49:4149"}
+{"html":"\n      <div style=\"font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto;\">\n        <h2 s...","level":"info","message":"📧 Email would be sent:","subject":"Verify your email address - AdAnalytics Pro","timestamp":"2025-08-19 13:41:49:4149","to":"test@example.com"}
+{"level":"info","message":"Email sent successfully","messageId":"mock-message-id","subject":"Verify your email address - AdAnalytics Pro","timestamp":"2025-08-19 13:41:49:4149","to":"test@example.com"}
+{"level":"warn","message":"No email configuration found. Emails will be logged instead of sent.","timestamp":"2025-08-19 13:42:24:4224"}
+{"html":"\n      <div style=\"font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto;\">\n        <h2 s...","level":"info","message":"📧 Email would be sent:","subject":"Verify your email address - AdAnalytics Pro","timestamp":"2025-08-19 13:42:24:4224","to":"test@example.com"}
+{"level":"info","message":"Email sent successfully","messageId":"mock-message-id","subject":"Verify your email address - AdAnalytics Pro","timestamp":"2025-08-19 13:42:24:4224","to":"test@example.com"}
+{"level":"warn","message":"No email configuration found. Emails will be logged instead of sent.","timestamp":"2025-08-19 13:45:46:4546"}
+{"html":"\n      <div style=\"font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto;\">\n        <h2 s...","level":"info","message":"📧 Email would be sent:","subject":"Verify your email address - AdAnalytics Pro","timestamp":"2025-08-19 13:45:46:4546","to":"test@example.com"}
+{"level":"info","message":"Email sent successfully","messageId":"mock-message-id","subject":"Verify your email address - AdAnalytics Pro","timestamp":"2025-08-19 13:45:46:4546","to":"test@example.com"}
+{"level":"warn","message":"No email configuration found. Emails will be logged instead of sent.","timestamp":"2025-08-19 13:49:12:4912"}
+{"html":"\n      <div style=\"font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto;\">\n        <h2 s...","level":"info","message":"📧 Email would be sent:","subject":"Verify your email address - AdAnalytics Pro","timestamp":"2025-08-19 13:49:12:4912","to":"test@example.com"}
+{"level":"info","message":"Email sent successfully","messageId":"mock-message-id","subject":"Verify your email address - AdAnalytics Pro","timestamp":"2025-08-19 13:49:12:4912","to":"test@example.com"}
+{"level":"warn","message":"No email configuration found. Emails will be logged instead of sent.","timestamp":"2025-08-19 13:53:17:5317"}
+{"html":"\n      <div style=\"font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto;\">\n        <h2 s...","level":"info","message":"📧 Email would be sent:","subject":"Verify your email address - AdAnalytics Pro","timestamp":"2025-08-19 13:53:17:5317","to":"test@example.com"}
+{"level":"info","message":"Email sent successfully","messageId":"mock-message-id","subject":"Verify your email address - AdAnalytics Pro","timestamp":"2025-08-19 13:53:17:5317","to":"test@example.com"}
